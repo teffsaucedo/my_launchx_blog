@@ -10,9 +10,9 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son: 
 
--
--
--
+- Aprender más sobre el desarrollo colaborativo 🐱
+- Desarrollar el Backend de mis páginas web 💻
+- Mejorar mis habilidades de desarrollo 🏁
 
 
 🚀
