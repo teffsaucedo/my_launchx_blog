@@ -9,13 +9,9 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Estudiante de Ingeniería en Sistemas Computacionales👩🏻‍💻
+> Voluntaria en diversas organizaciones que promueven la divulgación científica y tecnológica.🚀 
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Comunidades y Reconocimientos🎖** Coordinadora en Future Lab, Microsoft Learn Student Ambassador, miembro Core Team de Google Developer Student Clubs Universidad de Guanajuato y reconocida como estudiante talento.
+Acreedora a la beca León Joven X El Mundo 2021, ganadora NASA Space Apps Challenge 2019 y Datatón Anticorrupción 2021
 
